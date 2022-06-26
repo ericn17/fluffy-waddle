@@ -16,6 +16,8 @@
   
   https://ericn17.github.io/fluffy-waddle/
   
+  ![ericn17 github io_fluffy-waddle_](https://user-images.githubusercontent.com/103549017/175832482-4ba89adf-747f-4876-9589-9c3518edbe40.png)
+
   
   ## [License](#table-of-contents)
   The application is covered under the following license:
