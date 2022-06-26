@@ -14,6 +14,7 @@
   ## [Installation](#table-of-contents)
   Click on the deployed link below to use the application.
   
+  https://ericn17.github.io/fluffy-waddle/
   
   
   ## [License](#table-of-contents)
